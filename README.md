@@ -1,1 +1,1 @@
-# MokeCompetition
+# “默克”杯逆合成反应预测大赛
